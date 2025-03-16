@@ -7,5 +7,5 @@ Jogo de adivinhação de palavras, feito com React, para afins de aprendizagem. 
   - JavaScript
   - Css
 
-📧 Contato: 
-   :email: gbalastrelli@gmail.com
+ 
+ :email: gbalastrelli@gmail.com
