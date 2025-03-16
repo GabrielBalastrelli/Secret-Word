@@ -2,10 +2,10 @@
 
 Jogo de adivinhação de palavras, feito com React, para afins de aprendizagem. :books:. 
 
-:tools: Tecnologias Usadas 
-- React
-- JavaScript
-- Css
+ Tecnologias Usadas :tools: 
+  - React
+  - JavaScript
+  - Css
 
 📧 Contato: 
 
