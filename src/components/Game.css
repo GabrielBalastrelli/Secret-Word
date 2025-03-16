@@ -1,0 +1,69 @@
+.scoreReg > span{
+    color: #FFBE0B;
+    font-size: 30px;
+}
+
+.scoreReg{
+    margin-top: -45px;
+}
+.randomWord >span{
+    color:#8338EC;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.randomWord{
+    margin-bottom: 1.5rem;
+}
+.displayWord{
+    margin: 1.5rem;
+    padding: 1.5rem;
+    border: 20px solid #333333;
+    display:flex;
+}
+
+.square, .squareBlank{
+    font-size: 70px;
+    line-height: 1.5;
+    border: 3px solid #F4F4F8;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+    background-color: #3A86FF;
+    color:white;
+    font-weight: bold;
+}
+
+.guesses{
+    margin-top: -30px;
+}
+
+.guesses > span{
+    color: #FF6B6B;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 25px;
+    letter-spacing: .2rem;
+    text-transform: capitalize;
+}
+
+.guessesLetters > span {
+    color: #FF6B6B;
+    font-size: 20px;
+    letter-spacing: 0.8rem;
+}
+
+
+.guessed_input{
+    margin-bottom: 15px;
+}
+
+ .guessed_input > input {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+ }
